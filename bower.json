@@ -1,0 +1,26 @@
+{
+  "name": "Alex Diker Portfolio",
+  "homepage": "",
+  "authors": [
+    "Alex-Diker"
+  ],
+  "description": "Web Development for Capstone Class",
+  "main": "index.html",
+  "keywords": [
+    "material",
+    "design",
+    "bootstrap",
+    "material",
+    "design",
+    "google",
+    "twitter"
+  ],
+  "license": "Alex Diker Licence"",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
